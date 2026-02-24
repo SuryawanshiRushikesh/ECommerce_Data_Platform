@@ -1,0 +1,8 @@
+# Ignore generated data
+data/bronze/*.json
+data/silver/*
+data/gold/*
+
+# Python cache
+__pycache__/
+*.pyc
