@@ -100,6 +100,7 @@ Features include: `view_to_cart_rate`, `cart_to_checkout_rate`, `cart_abandon_fl
 ---
 
 ## Project Structure
+```
 ECommerce_Data_Platform/
 │
 ├── ingestion/                  # Synthetic data generators
@@ -129,7 +130,7 @@ ECommerce_Data_Platform/
 │
 ├── logs/                       # Timestamped pipeline execution logs
 └── orchestrator.py             # End-to-end pipeline runner
-
+```
 ---
 
 ## How to Run
